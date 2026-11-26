@@ -1,0 +1,17 @@
+langchain
+langchain-tavily
+langchain-groq
+langchain-openai
+langchain-community
+langchain-text-splitters
+python-dotenv
+pypdf
+langchain-pinecone
+pinecone
+langgraph
+langchain-core
+ipykernel
+uvicorn
+fastapi
+streamlit
+pydantic
